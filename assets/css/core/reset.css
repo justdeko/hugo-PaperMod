@@ -23,6 +23,13 @@ h6 {
     color: var(--primary);
 }
 
+@font-face {
+    font-display: swap;
+    font-family: 'Hanken Grotesk';
+    font-weight: 400;
+    src: url('/fonts/hanken-grotesk-v8-latin-regular.woff2') format('woff2');
+}
+
 body {
     font-family: 'Hanken Grotesk', BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-size: 18px;
